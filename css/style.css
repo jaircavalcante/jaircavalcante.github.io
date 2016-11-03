@@ -169,6 +169,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 .banner img {
        margin: 0 auto;
     text-align: center;
+    border-radius: 150px;
 }
 .banner h2 {
     font-size: 3.5em;
@@ -916,8 +917,7 @@ p.counter {
 /*-- //mail --*/
 /*-- footer --*/
 .w3l_footer{
-	     background: #000;
-       padding: 4em 0 3em 0;
+   padding: 4em 0 3em 0;
 }
 .w3l_footer form{
 	width: 45%;
@@ -993,7 +993,7 @@ p.counter {
 	color:#44c7f4;
 }
 .w3ls_footer_grid_left {
-      background: #2e2e2e;
+      background: #10131A;
     float: left;
     width: 31%;
     margin: 0 10px;
