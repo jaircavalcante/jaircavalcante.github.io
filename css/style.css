@@ -161,6 +161,11 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
        min-height: 715px;
     position: relative;
 }
+
+.texto-branco {
+    color: white;
+}
+
 .banner {
        margin: 0 auto;
     text-align: center;
@@ -511,7 +516,7 @@ h3.w3l_head.two {
 /*-- //services --*/
 /*-- /skills --*/
 .skills{
-      background: url(../images/banner.jpg) no-repeat center top;
+    /* background: url(../images/banner.jpg) no-repeat center top;*/
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
